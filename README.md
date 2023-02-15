@@ -1,10 +1,10 @@
 ## Getting Started
 
-###First, install the dependencies:
+### First, install the dependencies:
 
 yarn install
 
-###then run the server
+### Then run the server
 
 yarn dev
 
